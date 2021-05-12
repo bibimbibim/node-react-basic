@@ -1,0 +1,24 @@
+{
+    "name": "node-react-basic",
+    "version": "1.0.0",
+    "description": "Basic Node&React",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/bibimbibim/node-react-basic.git"
+    },
+    "author": "bibimbibim",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/bibimbibim/node-react-basic/issues"
+    },
+    "homepage": "https://github.com/bibimbibim/node-react-basic#readme",
+    "dependencies": {
+        "express": "^4.17.1",
+        "mongoose": "^5.12.8"
+    }
+}
